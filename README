@@ -1,4 +1,6 @@
-Hey there, this is the project files for a 2d video game called Machiavellian.
-It is built in unity and has one functioniong level in a nearly finished state
-as well as scraps of a second level very incomplete.  The project has been managed
-with Visual Studio Team services, I've uploaded a copy to github for resume purposes.
+Hey there, this is the scripts from the project files for a 2d video game called Machiavellian. 
+
+It is built in unity and coded in C#. The game has one functioning
+level in a nearly finished state,as well as scraps of a second level very incomplete.
+
+The project has been managed with Visual Studio Team services, I've uploaded a copy to github for resume purposes.
